@@ -10,7 +10,7 @@ Application Fullstack permettant de visualiser les bornes Vélib de Paris sur un
 - **Données :** Importation automatique d'un fichier CSV propriétaire (`velib-pos.csv`).
 - **Authentification :** Système de login (Simulé pour le MVP : `admin` / `admin`).
 
-## 🛠 Stack Technique
+## Stack Technique
 
 **Backend :**
 - Python 3.10+
